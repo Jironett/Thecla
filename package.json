@@ -1,5 +1,5 @@
 {
-  "name": "thecla",
+  "name": "@netcom/thecla",
   "version": "0.0.1",
   "description": "Thecla provides websocket server-to-server communication.",
   "main": "lib/index.js",
