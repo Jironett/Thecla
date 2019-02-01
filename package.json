@@ -1,0 +1,30 @@
+{
+  "name": "thecla",
+  "version": "0.0.0",
+  "description": "Thecla provides websocket server-to-server communication.",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jironett/Thecla.git"
+  },
+  "keywords": [
+    "Websocket",
+    "configurable scheme paths"
+  ],
+  "author": "Jiří Dušek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jironett/Thecla/issues"
+  },
+  "homepage": "https://github.com/Jironett/Thecla#readme",
+  "dependencies": {
+    "events": "^3.0.0",
+    "ws": "^6.1.3"
+  }
+}
