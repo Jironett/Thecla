@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/Jironett/Thecla#readme",
   "dependencies": {
+    "@netcom/consilium-dei": "0.0.7",
     "events": "^3.0.0",
     "query-string": "^6.2.0",
     "ws": "^6.1.3"
