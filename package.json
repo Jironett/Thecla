@@ -1,6 +1,6 @@
 {
   "name": "@netcom/thecla",
-  "version": "0.0.22",
+  "version": "0.0.23",
   "description": "Thecla provides websocket server-to-server communication.",
   "main": "lib/index.js",
   "directories": {
